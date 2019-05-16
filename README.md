@@ -18,3 +18,14 @@ Conceptos basicos de Git y GitHub: https://www.youtube.com/watch?v=HiXLkL42tMU
 
 openpyxl para manejar archivos excel en python
 https://openpyxl.readthedocs.io/en/stable/index.html#
+
+Eenlaces de interés acerca de POO:
+
+https://unipython.com/programacion-orientada-objetos-python/
+
+https://realpython.com/python3-object-oriented-programming/
+
+¡Importante!
+https://medium.com/@_seraph1/volviendo-a-lo-b%C3%A1sico-poo-en-python-diferencia-entre-init-y-new-parte-10-3ec7632388d1
+
+https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion9/poo.html  
